@@ -28,3 +28,8 @@
 ![Captura de pantalla (98)](https://user-images.githubusercontent.com/81451650/202953252-ddd17a6b-97b5-4e36-8470-72374f3f59d7.png)
 
 ![Captura de pantalla (99)](https://user-images.githubusercontent.com/81451650/202953261-b37ce272-e626-437c-8fb6-c864cd236171.png)
+
+<h1>Estructura de la base de datos</h1>
+
+![image](https://user-images.githubusercontent.com/81451650/202953546-4e0aba07-75f5-400f-b56c-c0e30588d2ed.png)
+
