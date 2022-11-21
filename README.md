@@ -9,6 +9,13 @@
 
 <h1>Algunas capturas del proyecto</h1>
 
+para el desarrollo se utilizo:
+
+PHP: version 8.0.2
+GESTOR BASE DE DATOS: mysql
+FRAMEWORK: laravel 9.40.1
+DEPENDENCIA DE PHP:composer 2.4.4
+
 ![Captura de pantalla (90)](https://user-images.githubusercontent.com/81451650/202953165-219a654f-a19d-4588-8db6-6aea0971fc4c.png)
 
 ![Captura de pantalla (91)](https://user-images.githubusercontent.com/81451650/202953175-1e93ddfb-ec7d-4dac-acb6-d90a51252275.png)
